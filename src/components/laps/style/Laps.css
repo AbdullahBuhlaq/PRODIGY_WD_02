@@ -1,0 +1,20 @@
+.laps-container {
+    height: 35svh;
+    overflow: auto;
+    width: max-content;
+    position: relative;
+    margin: 0 0 10svh;
+    width: 50vw;
+}
+
+.laps-container table {
+    width: 100%;
+    text-align: center;
+}
+
+.laps-container thead {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: antiquewhite;
+}

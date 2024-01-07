@@ -1,0 +1,8 @@
+.timer {
+    font-size: 5rem;
+    opacity: .9;
+    margin-bottom: 5svh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
